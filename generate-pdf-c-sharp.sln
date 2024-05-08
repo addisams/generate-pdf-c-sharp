@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generate-pdf-c-sharp", "generate-pdf-c-sharp\generate-pdf-c-sharp.csproj", "{FACBA9D0-9A52-4151-95AB-400B3AF504EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACBA9D0-9A52-4151-95AB-400B3AF504EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACBA9D0-9A52-4151-95AB-400B3AF504EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACBA9D0-9A52-4151-95AB-400B3AF504EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACBA9D0-9A52-4151-95AB-400B3AF504EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10725E04-00A7-49C5-8E7D-4C9E6BAD4F9F}
+	EndGlobalSection
+EndGlobal
