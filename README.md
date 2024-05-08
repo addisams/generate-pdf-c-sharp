@@ -1,5 +1,5 @@
 # generate-pdf-c-sharp
 ## This repo is for generating pdf using c-sharp language.
-## Frist of all To run this project install package
+## Frist of all To run this project install packages
  ### iText7
  ### itext7.bouncy-castle-adapter.
